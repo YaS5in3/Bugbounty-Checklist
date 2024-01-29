@@ -142,8 +142,7 @@ be an issue for some organizations.  However, depends on case by case basis.
 
 [ ] Direct Request
 ```
-1. Directly Navigate to the page which comes after 2FA or any other authenticated  
-page of the application.
+1. Directly Navigate to the page which comes after 2FA or any other authenticated page of the application.
 2. See if this bypasses the 2FA restrictions.
 3. try to change the **Referrer header** as if you came from the 2FA page.
 ```
