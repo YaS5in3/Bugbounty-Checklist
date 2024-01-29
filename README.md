@@ -1,5 +1,5 @@
 # vulnerability-Checklist
-This repo contain a lot of vulnerability checklist                                                                                                                                       
+This repo contain a lot of vulnerability checklist.                                                                                                                                       
 1. [AEM misconfiguration](https://github.com/Az0x7/vulnerability-Checklist/blob/main/Aem%20misconfiguration/aem.md)                                                                                             
 2. [Authentication](https://github.com/Az0x7/vulnerability-Checklist/blob/main/Authentication/authentication.md)                                                                                         
 3. [IDOR](https://github.com/Az0x7/vulnerability-Checklist/blob/main/IDOR%20Vulnerability/idor.md)                                                                                                             
