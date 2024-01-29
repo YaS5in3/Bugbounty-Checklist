@@ -107,3 +107,8 @@ works in another domain too.
 [ ] use unicode char jutzu to spoof email address                                                                                                           
 [ ] look for race conditions                                                                                                                               
 [ ] try to register the same mail with different TLD (.eu,.net etc)                                                                                        
+[ ] Password reset link not expiring
+[ ] Password reset token leak via response
+[ ] No rate limiting on password reset
+[ ] User enumeration via Password reset page
+[ ] HTML Injection in register/Password reset page
